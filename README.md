@@ -26,7 +26,7 @@ e ajudar as pessoas por meio desta paixão nessa troca em aprender e ensinar pes
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![NextJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
+![NextJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nextjs&logoColor=E535AB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
 
