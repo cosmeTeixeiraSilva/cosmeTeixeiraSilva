@@ -11,7 +11,7 @@
 - 💚 &nbsp; emprego em CLT foi ser Eng. Junior de Software e trabalhei com MYSQL e Desenvolvimento Desktop e conforme eu fui adquirindo experiência na área, descobri que tinha uma paixão: compartilhar meu conhecimento,
 e ajudar as pessoas por meio desta paixão nessa troca em aprender e ensinar pessoas, e assim sou professor há 19 anos completados em 2025 lecionando e distribuido conhecimento e aprendendo com os alunos de todas as idades  em diversos cursos Técnicos atualmente no SENAC Minas.
 - 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. Utilizo a stacks como  JavaScript (Node, React & React Native, C#, PHP, Python... para desenvolver em ambas as frentes,
--  nunca sabemos sempre aprendendo e ensinando pois somos  um eterno APRENDIZ....
+-  nunca sabemos tudo pois sempre aprendendo e ensinando pois somos  um eterno APRENDIZ....
 - 🏎 &nbsp; Sou apaixonado por Tecnologias, IOT, MAKER, Programação e Jiu Jtsu.
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
