@@ -14,6 +14,21 @@ Conforme fui adquirindo experiência na área, descobri uma paixão que transfor
 🚀 Minha carreira hoje está focada nas áreas de desenvolvimento web e mobile. Trabalho com tecnologias como JavaScript (Node.js, React e React Native), C#, PHP, Python, entre outras, para criar soluções modernas e impactantes. Acredito que na tecnologia somos eternos aprendizes, sempre ensinando e aprendendo algo novo.
 
 🏎 Além do universo da programação, sou apaixonado por tecnologia, IoT, movimento maker e Jiu-Jitsu.
+
+Agora um pouco da minha parte Acadêmica:
+
+Docente Ensino Técnico SENAC Minas
+Professor em Ensino Técnico há 19 anos 
+Pós Graduado em Docência no Ensino Técnico - SENAC/SP - 360 horas
+Pós Graduando em Desenvolvimento Full Stack - UNYLEYA/SP - 360 horas
+Pós Graduando em Desenvolvimento Front End - ANHANGUERA/SP - 360 horas
+Mestre em Engenharia de Sistemas e Automação UFLA/MG
+Micro Empreendedor Individual no setor de Cultivo Protegido e Automação de Estufas Agrícol
+Engenheiro de Segurança do Trabalho - Unilavras/MG
+Engenheiro Agrícola - UFLA/MG
+Faixa Preta de Jiu Jitsu Brasileiro - Equipe CheckMatt Brasil
+
+
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
 
