@@ -1,6 +1,6 @@
 <h1>👋 &nbsp;Olá, eu sou o Professor  Cosme, um desenvolvedor full stack apaixonado por Tecnologias, IOT e MAKER há mais de 19 anos!</h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/cosmeteixeira"><img src="https://img.shields.io/badge/-Felipe%20Mota%20Rocha-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/cosmeteixeira"><img src="https://img.shields.io/badge/-Cosme%20Teixeira%20Silva-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:cosme.teixeira@gmail.com"><img src="https://img.shields.io/badge/cosme.teixeira@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
