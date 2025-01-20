@@ -7,12 +7,13 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Entrei na Universidade Federal de Lavras e na mente já querendo trabalhar como Programador e  desde então, eu decidi que eu queria fazer isso na minha vida — eu queria ser um programador, me formei em Engenharia e meu primeiro
-- 💚 &nbsp; emprego em CLT foi ser Eng. Junior de Software e trabalhei com MYSQL e Desenvolvimento Desktop e conforme eu fui adquirindo experiência na área, descobri que tinha uma paixão: compartilhar meu conhecimento,
-e ajudar as pessoas por meio desta paixão nessa troca em aprender e ensinar pessoas, e assim sou professor há 19 anos completados em 2025 lecionando e distribuido conhecimento e aprendendo com os alunos de todas as idades  em diversos cursos Técnicos atualmente no SENAC Minas.
-- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. Utilizo a stacks como  JavaScript (Node, React & React Native, C#, PHP, Python... para desenvolver em ambas as frentes,
--  nunca sabemos tudo pois sempre aprendendo e ensinando pois somos  um eterno APRENDIZ....
-- 🏎 &nbsp; Sou apaixonado por Tecnologias, IOT, MAKER, Programação e Jiu Jtsu.
+Entrei na Universidade Federal de Lavras com a meta clara de me tornar programador. Desde o início, sabia que era isso que queria para minha vida. Após me formar em Engenharia, conquistei meu primeiro emprego CLT como Engenheiro de Software Júnior, onde trabalhei com MySQL e desenvolvimento desktop.
+
+Conforme fui adquirindo experiência na área, descobri uma paixão que transformaria minha trajetória: compartilhar conhecimento. Percebi o quanto ensinar e aprender com outras pessoas era gratificante e enriquecedor. Essa paixão me levou à sala de aula, e há 19 anos, leciono com dedicação e entusiasmo, completando essa jornada em 2025. Atualmente, atuo como professor no SENAC Minas, ministrando diversos cursos técnicos e aprendendo diariamente com alunos de todas as idades.
+
+🚀 Minha carreira hoje está focada nas áreas de desenvolvimento web e mobile. Trabalho com tecnologias como JavaScript (Node.js, React e React Native), C#, PHP, Python, entre outras, para criar soluções modernas e impactantes. Acredito que na tecnologia somos eternos aprendizes, sempre ensinando e aprendendo algo novo.
+
+🏎 Além do universo da programação, sou apaixonado por tecnologia, IoT, movimento maker e Jiu-Jitsu.
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
 
