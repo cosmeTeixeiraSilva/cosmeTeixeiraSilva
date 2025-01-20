@@ -15,7 +15,7 @@ Conforme fui adquirindo experiência na área, descobri uma paixão que transfor
 
 🏎 Além do universo da programação, sou apaixonado por tecnologia, IoT, movimento maker e Jiu-Jitsu.
 
-- Agora um pouco da minha parte Acadêmica:
+<h2>Agora um pouco da minha parte Acadêmica:</h2>
 
 - Docente Ensino Técnico SENAC Minas
 - Professor em Ensino Técnico há 19 anos 
