@@ -7,26 +7,37 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-Entrei na Universidade Federal de Lavras com a meta clara de me tornar programador. Desde o início, sabia que era isso que queria para minha vida. Após me formar em Engenharia, conquistei meu primeiro emprego CLT como Engenheiro de Software Júnior, onde trabalhei com MySQL e desenvolvimento desktop.
+Minha Jornada na Programação e Educação
 
-Conforme fui adquirindo experiência na área, descobri uma paixão que transformaria minha trajetória: compartilhar conhecimento. Percebi o quanto ensinar e aprender com outras pessoas era gratificante e enriquecedor. Essa paixão me levou à sala de aula, e há 19 anos, leciono com dedicação e entusiasmo, completando essa jornada em 2025. Atualmente, atuo como professor no SENAC Minas, ministrando diversos cursos técnicos e aprendendo diariamente com alunos de todas as idades.
+Minha história começou com uma meta clara: tornar-me programador. Quando entrei na Universidade Federal de Lavras (UFLA), já sabia que esse era o caminho que queria seguir. Após me formar em Engenharia, conquistei meu primeiro emprego como Engenheiro de Software Júnior, atuando com MySQL e desenvolvimento de aplicações desktop.
 
-🚀 Minha carreira hoje está focada nas áreas de desenvolvimento web e mobile. Trabalho com tecnologias como JavaScript (Node.js, React e React Native), C#, PHP, Python, entre outras, para criar soluções modernas e impactantes. Acredito que na tecnologia somos eternos aprendizes, sempre ensinando e aprendendo algo novo.
+Mas foi ao longo da minha experiência na área que descobri uma nova paixão que redefiniu minha trajetória: compartilhar conhecimento. Percebi o quanto ensinar e aprender com outras pessoas era transformador e enriquecedor. Essa paixão me levou à sala de aula, onde iniciei minha jornada como professor, que em 2025 completa 19 anos de dedicação e entusiasmo. Atualmente, leciono no SENAC Minas, ministrando cursos técnicos e aprendendo diariamente com alunos de todas as idades.
 
-🏎 Além do universo da programação, sou apaixonado por tecnologia, IoT, movimento maker e Jiu-Jitsu.
+🚀 Minha Carreira Hoje
 
-<h2>Agora um pouco da minha parte Acadêmica:</h2>
+Hoje, sou especialista em desenvolvimento web e mobile, trabalhando com tecnologias como JavaScript, Node.js, React, React Native, C#, PHP, Python, entre outras. Recentemente, tenho explorado o framework Next.js para criar soluções modernas e impactantes. Para mim, a tecnologia é um universo onde somos eternos aprendizes, sempre descobrindo e compartilhando algo novo.
 
-- Docente Ensino Técnico SENAC Minas
-- Professor em Ensino Técnico há 19 anos 
-- Pós Graduado em Docência no Ensino Técnico - SENAC/SP - 360 horas
-- Pós Graduando em Desenvolvimento Full Stack - UNYLEYA/SP - 360 horas
-- Pós Graduando em Desenvolvimento Front End - ANHANGUERA/SP - 360 horas
-- Mestre em Engenharia de Sistemas e Automação UFLA/MG
-- Micro Empreendedor Individual no setor de Cultivo Protegido e Automação de Estufas Agrícol
-- Engenheiro de Segurança do Trabalho - Unilavras/MG
-- Engenheiro Agrícola - UFLA/MG
-- Faixa Preta de Jiu Jitsu Brasileiro - Equipe CheckMatt Brasil
+🏎 Além do Código
+
+Minha curiosidade me levou a explorar áreas como tecnologia, IoT e o movimento maker. Também encontro equilíbrio no esporte: sou faixa preta de Jiu-Jitsu Brasileiro pela equipe CheckMat Brasil, onde aprendi a importância da disciplina, resiliência e superação.
+
+Formação Acadêmica e Experiência
+
+Docente em Ensino Técnico - SENAC Minas
+	•	19 anos de experiência como professor técnico
+	•	Pós-Graduado em Docência no Ensino Técnico (SENAC/SP - 360 horas)
+	•	Pós-Graduando em Desenvolvimento Full Stack (UNYLEYA/SP - 360 horas)
+	•	Pós-Graduando em Desenvolvimento Front End (ANHANGUERA/SP - 360 horas)
+
+Engenharia e Pesquisa
+	•	Mestre em Engenharia de Sistemas e Automação (UFLA/MG)
+	•	Engenheiro de Segurança do Trabalho (Unilavras/MG)
+	•	Engenheiro Agrícola (UFLA/MG)
+
+Empreendedorismo
+	•	Microempreendedor no setor de Construção, Automação e Climatização, com foco em soluções para estufas agrícolas baseadas em sensores.
+
+Minha trajetória é guiada por três pilares: inovação, aprendizado contínuo e impacto positivo. Seja no desenvolvimento de projetos, na sala de aula ou no tatame, estou sempre em busca de evolução e de transformar o que toco em algo melhor.
 
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
