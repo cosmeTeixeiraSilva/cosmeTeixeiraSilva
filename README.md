@@ -49,11 +49,13 @@ Minha trajetória é guiada por três pilares: inovação, aprendizado contínuo
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 
+
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![NextJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nextjs&logoColor=E535AB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 <h2>🚀 &nbsp;Volte Sempre, tudo de bom em 2025</h2>
