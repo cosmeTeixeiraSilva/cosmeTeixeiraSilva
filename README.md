@@ -15,7 +15,7 @@ Mas foi ao longo da minha experiência na área que descobri uma nova paixão qu
 
 🚀 Minha Carreira Hoje
 
-Hoje, sou especialista em desenvolvimento web e mobile, trabalhando com tecnologias como JavaScript, Node.js, React, React Native, C#, PHP, Python, entre outras. Recentemente, tenho explorado o framework Next.js para criar soluções modernas e impactantes. Para mim, a tecnologia é um universo onde somos eternos aprendizes, sempre descobrindo e compartilhando algo novo.
+Hoje, sou especialista em desenvolvimento web e mobile, trabalhando com tecnologias como JavaScript, Node.js, React, React Native, C#, PHP, Python, entre outras. Recentemente, tenho explorado o framework Next.js para criar soluções modernas e impactantes. Para mim, a tecnologia é um universo onde somos eternos aprendizes, sempre descobrindo e compartilhando algo novo, futuramente quero fazer uma API também usando Spring Boot (JAVA) 🚀
 
 🏎 Além do Código
 
