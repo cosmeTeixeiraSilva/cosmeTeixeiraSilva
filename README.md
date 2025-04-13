@@ -9,7 +9,7 @@
 
 Minha Jornada na Programação e Educação
 
-Minha história começou com uma meta clara: tornar-me programador. Quando entrei na Universidade Federal de Lavras (UFLA), já sabia que esse era o caminho que queria seguir. Após me formar em Engenharia, conquistei meu primeiro emprego como Engenheiro de Software Júnior, atuando com MySQL e desenvolvimento de aplicações desktop.
+Minha história começou com uma meta clara: tornar-me programador. Quando entrei na Universidade Federal de Lavras (UFLA), já sabia que esse era o caminho que queria seguir. Após me formar em Engenharia, conquistei meu primeiro emprego como Engenheiro de Software Júnior, atuando com MySQL e desenvolvimento de aplicações desktop, depois Mestrado em Engengharia de Sistemas e Automação na Universidade Federal de Lavras nas minhas Minas Gerais, evolui para o mundo IOT.
 
 Mas foi ao longo da minha experiência na área que descobri uma nova paixão que redefiniu minha trajetória: compartilhar conhecimento. Percebi o quanto ensinar e aprender com outras pessoas era transformador e enriquecedor. Essa paixão me levou à sala de aula, onde iniciei minha jornada como professor, que em 2025 completa 19 anos de dedicação e entusiasmo. Atualmente, leciono no SENAC Minas, ministrando cursos técnicos e aprendendo diariamente com alunos de todas as idades.
 
